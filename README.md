@@ -12,5 +12,5 @@ Interactive Dashboards: Dynamic charts and visual components that update with yo
 Prerequisites:
 Microsoft Excel (preferably 2016 or later)
 Basic knowledge of Excel functions like PivotTables, VLOOKUP, and charting.
-dataset link - <a href="https://github.com/Sachin7exe/Data-analysis-Dashboard/blob/main/vrinda%20dash.xlsx">
-Dashboard link - <a href ="https://github.com/Sachin7exe/Data-analysis-Dashboard/blob/main/dashboard.jpg">
+dataset link - <a href="https://github.com/Sachin7exe/Data-analysis-Dashboard/blob/main/vrinda%20dash.xlsx">Dataset </a>
+Dashboard link - <a href ="https://github.com/Sachin7exe/Data-analysis-Dashboard/blob/main/dashboard.jpg"> view Dashboard </a>
